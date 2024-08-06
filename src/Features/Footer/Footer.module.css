@@ -1,0 +1,14 @@
+.footercontainer{
+    margin: 0;
+    padding: 1rem 0;
+    height: max-content;
+    width: 100%;
+    background-color: var(--secondary-bg-color);
+    color: var(--secondary-text-color);
+    font-family: var(--logo-font);
+    font-size: var(--footer-font-size);
+}
+
+.footercontainer h1{
+    margin: 0;
+}

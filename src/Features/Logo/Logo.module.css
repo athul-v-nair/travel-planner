@@ -1,0 +1,12 @@
+.logocontainer {
+    margin: 0;
+    background-color: var(--primary-bg-color);
+    font-family: var(--logo-font);
+    color: var(--primary-text-color);
+    font-size: var(--logo-font-size);
+}
+
+.logocontainer h1{
+    margin: 0;
+    padding: 1rem 0;
+}

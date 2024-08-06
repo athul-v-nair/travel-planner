@@ -1,0 +1,51 @@
+.formcontainer{
+    font-family: var(--text-font);
+    color: var(--secondary-text-color);
+    background-color: var(--secondary-bg-color);
+}
+
+.formcontainer h3{
+    margin: 0;
+    padding: 1rem 0;
+}
+
+.inputcontainer{
+    border: none;
+    padding: 0.5rem 1rem 1rem 1rem;
+}
+
+.inputcontainer select{
+    margin: 0 1rem;
+    width: 10rem;
+    height: 2.5rem;
+    border: solid 1px white;
+    font-family: var(--text-font);
+    color: var(--secondary-text-color);
+    background-color: var(--primary-bg-color);
+    border-radius: 0.8rem;
+}
+.inputcontainer input{
+    margin: 0 1rem;
+    width: 35rem;
+    height: 2.3rem;
+    border: solid 1px white;
+    font-family: var(--text-font);
+    color: var(--secondary-text-color);
+    background-color: var(--primary-bg-color);
+    border-radius: 0.8rem;
+}
+
+.inputcontainer select option{
+    height: 0.5rem;
+}
+
+.inputcontainer button{
+    margin: 0 1rem;
+    height: 2.5rem;
+    width: 10rem;
+    border: solid 1px white;
+    font-family: var(--text-font);
+    color: var(--secondary-text-color);
+    background-color: var(--primary-bg-color);
+    border-radius: 0.8rem;
+}

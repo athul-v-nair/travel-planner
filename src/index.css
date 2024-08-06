@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;400;700&display=swap');
+
+:root {
+  --primary-bg-color: #244855;
+  --primary-text-color: #E64833;
+  --logo-font: "Bangers", system-ui;
+  --text-font : "Kalam", cursive;
+  --text-font-weight: 700;
+  --text-font-style: normal;
+  --secondary-text-color: #FBE9D0;
+  --secondary-bg-color: #874F41;
+  --third-bg-color: #90AEAD;
+  --logo-font-size: 48px;
+  --footer-font-size: 16px;
+  --text-font-size: 20px;
+}
+
+body {
+  margin: 0;
+}
