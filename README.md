@@ -1,3 +1,11 @@
+Travel Planner
+##############
+
+Travel Planner app is build to keep track to the items to be packed for a trip🚗
+Add or remove items with the quantity required
+Mark item as packed 
+Sort items with input time, description, quantity and packed status
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
